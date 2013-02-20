@@ -1,0 +1,7 @@
+''' This is a code to test how to add some files including python code'''
+
+hello-list = ['H','l','l','o',' ','w','o','r','l','d','!']
+for i in hello-list:
+  print i
+
+
